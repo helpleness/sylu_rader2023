@@ -1,5 +1,9 @@
 # sylu_rader2023
 
+编译环境：
+
+ubuntu18.04 , ros,pcl1.9.1,eigen3.3.4,opencv3.4.16,MVS,livox-SDK,qt5
+
 开启命令：
 
 终端一：
